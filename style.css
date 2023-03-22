@@ -1,0 +1,20 @@
+.form-wrapper {
+    display: flex;
+    margin: 10px;
+}
+.form {
+    
+    border: 2px solid;
+    width: 220px;
+    height: 150px;
+    position: relative;
+    left: 650px;
+    top: 250px;
+}
+.button {
+    position: relative;
+    left: 8px;
+}
+.container {
+    height: 100%;
+}
